@@ -111,7 +111,7 @@ function App() {
           </div>
    
         <div>
-          <h1>Law Token Allocation</h1>
+          <h1 style={{paddingTop: "24px"}}>Law Token Allocation</h1>
           <button className='join' onClick={joinPlatform}>Join Platform</button>
           <div className='mainCont'>
           <div className='cont'>
